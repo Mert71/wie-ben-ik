@@ -1,0 +1,48 @@
+
+body {
+  background-color:#999999;
+  }
+  p {
+    font-family: cursive;
+  color:blue;
+  }
+
+h1 {
+  font-family: serif;
+  color:white;
+  text-align: center;
+}
+
+h2 {
+  font-family: serif;
+  color:white;
+}
+
+h3{
+  font-family: serif;
+  color:white;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color:blue
+  background-color: yellow;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: white;
+  text-decoration: underline;
+}
+
+a:active {
+  color: blue;
+  background-color: : transparent;
+  text-decoration: underline;
+}
